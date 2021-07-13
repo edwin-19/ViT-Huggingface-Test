@@ -4,3 +4,8 @@ For this version i am using huggingfaces implementation - therefore pytorch
 
 ## Model Results
 TBA
+
+## ToDO
+- [x] EDA
+- [x] Train ViT model
+- [x] Evaluate ViT model
