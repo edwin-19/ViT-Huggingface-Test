@@ -9,3 +9,4 @@ TBA
 - [x] EDA
 - [x] Train ViT model
 - [x] Evaluate ViT model
+- [ ] Train Simple CNN
