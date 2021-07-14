@@ -2,8 +2,13 @@
 Base code to test out how vision transformers work in comparison to a normal cnn
 For this version i am using huggingfaces implementation - therefore pytorch
 
+For this module i am using the ASL dataset to test out, you can download it [here](https://www.kaggle.com/grassknoted/asl-alphabet)
+
 ## Model Results
-TBA
+| Model Name                | Accuracy | MCC  |
+|---------------------------|----------|------|
+| ViT (Vision Transformers) | 1        | 0.99 |
+| CNN                       | ?        | ?    |
 
 ## ToDO
 - [x] EDA
