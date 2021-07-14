@@ -8,10 +8,10 @@ For this module i am using the ASL dataset to test out, you can download it [her
 | Model Name                | Accuracy | MCC  |
 |---------------------------|----------|------|
 | ViT (Vision Transformers) | 1        | 0.99 |
-| CNN                       | ?        | ?    |
+| CNN (10 Epochs)           | 0.35     | 0.33 |
 
 ## ToDO
 - [x] EDA
 - [x] Train ViT model
 - [x] Evaluate ViT model
-- [ ] Train Simple CNN
+- [x] Train & Evaluate Simple CNN
