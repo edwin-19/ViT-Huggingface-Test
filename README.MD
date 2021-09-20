@@ -15,3 +15,4 @@ For this module i am using the ASL dataset to test out, you can download it [her
 - [x] Train ViT model
 - [x] Evaluate ViT model
 - [x] Train & Evaluate Simple CNN
+- [ ] Train & Evaluate EffNetV2
