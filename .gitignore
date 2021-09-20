@@ -1,4 +1,5 @@
 data/
 model/
+weights/
 .vscode/
 .ipynb_checkpoints/

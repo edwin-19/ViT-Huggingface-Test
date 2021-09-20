@@ -17,4 +17,5 @@ For this module i am using the ASL dataset to test out, you can download it [her
 - [x] Evaluate ViT model
 - [x] Train & Evaluate Simple CNN
 - [x] Train & Evaluate EffNetV2
+- [ ] Train & Evaluate DEIT
 - [ ] Inference Script
